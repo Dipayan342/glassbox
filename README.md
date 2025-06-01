@@ -1,6 +1,6 @@
 # GlassBox-AI
 
-Brief description of what your project does and why it's useful.
+Glassbox AI is a comprehensive, AI-powered career development platform that revolutionizes how professionals approach job searching, skill development, and career advancement. The platform combines cutting-edge artificial intelligence with practical career tools to provide personalized insights and automated workflows.
 
 ## ✨ Features
 
