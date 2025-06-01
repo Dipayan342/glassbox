@@ -1,4 +1,4 @@
-# Project Name
+# GlassBox-AI
 
 Brief description of what your project does and why it's useful.
 
